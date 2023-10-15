@@ -1,6 +1,6 @@
 # Discrete-Math-CS-Basic-Math-Abstract-Math-Intro
 # Proof Techniques(Contradiations, Inductions, etc)
-[Go to the file](Introduction%to%Abstract%Mathematics.pdf)
+[Link to the file]()
 
 # Propositional Formula
 # Set Theory and Boolean Logic
