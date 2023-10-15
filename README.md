@@ -9,4 +9,4 @@ It would be easier to browse those files if you download them
 # The Berkeley Site for Practice Questions
 https://www.eecs70.org/
 # The note from Yale that you would find any topic you want
-[Link to the file]()
+[Link to the file](https://github.com/noobyanjunhao/Discrete-Math-CS-Basic-Math-Abstract-Math-Into/blob/f80bad65601aeccd03cbe331a109344f6e8888aa/yale%20cs%20discrete%20math%20notes.pdf)
