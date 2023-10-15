@@ -1,5 +1,10 @@
 # Discrete-Math-CS-Basic-Math-Abstract-Math-Intro
-It would be easier to browse those files if you download them
+![If you're getting bored with math](image_url)
+
+
+
+
+Hint: It would be easier to browse those files if you download them
 # Proof Techniques(Contradiations, Inductions, etc)
 [Link to the file](https://github.com/noobyanjunhao/Discrete-Math-CS-Basic-Math-Abstract-Math-Into/blob/8c1aaef402184e715b19c981a5765f996125d191/Introduction%20to%20Abstract%20Mathematics.pdf)
 # Propositional Formula
