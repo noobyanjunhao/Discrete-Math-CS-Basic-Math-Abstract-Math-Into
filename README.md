@@ -1,5 +1,5 @@
 # Discrete-Math-CS-Basic-Math-Abstract-Math-Intro
-![If you're getting bored with math](image_url)
+![If you're getting bored with math...think of its relation to philo and science]([image_url](https://github.com/noobyanjunhao/Discrete-Math-CS-Basic-Math-Abstract-Math-Into/blob/fe23c98080c7bb215eec4491cc889842e9169fa9/sciencemathphilovenngraph.png))
 
 
 
