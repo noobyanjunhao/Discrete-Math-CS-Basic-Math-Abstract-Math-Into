@@ -8,3 +8,5 @@ It would be easier to browse those files if you download them
 [Link to the file](https://github.com/noobyanjunhao/Discrete-Math-CS-Basic-Math-Abstract-Math-Into/blob/8c1aaef402184e715b19c981a5765f996125d191/Logic%20%26%20Computation.pdf)
 # The Berkeley Site for Practice Questions
 https://www.eecs70.org/
+# The note from Yale that you would find any topic you want
+[Link to the file]()
